@@ -19,7 +19,7 @@ const HeroSection = () => {
       <div className="relative z-10 text-center text-white px-4 max-w-4xl">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
           <span className="bg-gradient-to-r from-green-200 to-emerald-100 bg-clip-text text-transparent">
-            Jita Aawash
+            Jita Aawas
           </span>
           <br />
           <span className="text-3xl md:text-5xl font-semibold">Girls Hostel</span>
