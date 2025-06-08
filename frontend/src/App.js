@@ -276,7 +276,7 @@ const SafetySection = () => {
             <h2 className="text-4xl md:text-5xl font-bold text-green-900 mb-6">
               Your Safety is Our Priority
             </h2>
-            <p className="text-xl text-green-700 mb-8 leading-relaxed">
+            <p className="text-xl text-green-700 leading-relaxed">
               We understand that safety is the top concern for parents and students. That's why we've implemented comprehensive security measures.
             </p>
             
