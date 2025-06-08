@@ -9,7 +9,7 @@ const HeroSection = () => {
       <div className="absolute inset-0 z-0">
         <img 
           src="https://images.pexels.com/photos/3746952/pexels-photo-3746952.jpeg" 
-          alt="Jitaaawas Girls Hostel" 
+          alt="Jita Aawash Girls Hostel" 
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-br from-green-900/80 via-green-800/70 to-emerald-900/80"></div>
