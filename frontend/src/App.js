@@ -55,7 +55,7 @@ const AboutSection = () => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-green-900 mb-6">
-            Why Choose Jitaaawas?
+            Why Choose Jita Aawash?
           </h2>
           <p className="text-xl text-green-700 max-w-3xl mx-auto leading-relaxed">
             A perfect blend of safety, comfort, and convenience for girls in Kathmandu
