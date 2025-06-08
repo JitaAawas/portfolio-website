@@ -358,7 +358,7 @@ const ContactSection = () => {
             Get in Touch
           </h2>
           <p className="text-xl text-green-100 max-w-3xl mx-auto">
-            Ready to make Jitaaawas your home? Contact us today!
+            Ready to make Jita Aawash your home? Contact us today!
           </p>
         </div>
         
